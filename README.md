@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jagruti Borse 👋
 
-<!--
-**Jagrutii6/JAGRUTII6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | Web & Graphic Designer
 
-Here are some ideas to get you started:
+💻 I create clean, responsive and user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 I enjoy combining frontend development with creative design.
+
+🌱 Currently improving my JavaScript and frontend development skills.
+
+## 🛠️ Skills
+
+HTML5 • CSS3 • JavaScript • C++
+
+Frontend Development • Responsive Web Design  
+Web Design • Graphic Design • Git • GitHub
+
+## 🚀 Current Project
+
+### Serenity Hair Studio — Website
+
+A modern, responsive website currently being developed for Serenity Hair Studio, Nashik.
+
+🚧 **Status:** Work in Progress
+
+**Currently working on:** Frontend development  
+**Next:** Backend & Database integration
+
+## 📫 Connect With Me
+
+💼 LinkedIn:jagrutiiborse-jb468
+📸 Instagram: @jagrutisingS_
